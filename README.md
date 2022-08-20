@@ -1,6 +1,7 @@
 - 👋 Hi, I’m mohamed said
 - 👀 I’m interested in programming and developing myself every single day
-- 🌱 I’m currently learning every thing that will help me to developing myself in my tracking in programming
+- 🌱 I’m currently learning every thing that will help me to developing myself in my track in programming
+- I am an asp.net core full-stack web developer
 - 📫 How to reach me :- sydm33420@gmail.com
 
 <!---
